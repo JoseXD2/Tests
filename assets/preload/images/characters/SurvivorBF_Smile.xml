@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SurvivorBF_Smile.png">
+<SubTexture name="BF_Down_Smile instance 0000" x="2711" y="0" width="351" height="404" frameX="-35" frameY="-42" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Idle_Smile instance 0000" x="1287" y="1104" width="314" height="467" frameX="-10" frameY="-1" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Left_Smile instance 0000" x="399" y="2063" width="401" height="430" frameX="-37" frameY="-14" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Right_Smile instance 0000" x="1000" y="1622" width="338" height="434" frameX="-3" frameY="-6" frameWidth="359" frameHeight="441" />
+<SubTexture name="BF_Up_Smile instance 0002" x="637" y="0" width="346" height="528" frameX="0" frameY="-53" frameWidth="347" frameHeight="584" />
+</TextureAtlas>

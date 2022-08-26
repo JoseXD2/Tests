@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SurvivorBF_Dodge.png">
+<SubTexture name="BF_Down_Dodge instance 0000" x="1936" y="2005" width="349" height="400" frameX="-36" frameY="-46" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Idle_Dodge instance 0000" x="314" y="1103" width="313" height="468" frameX="-10" frameY="0" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Left_Dodge instance 0000" x="798" y="2005" width="436" height="417" frameX="0" frameY="-27" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Right_Dodge instance 0000" x="1990" y="0" width="370" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Up_Dodge instance 0000" x="0" y="0" width="301" height="583" frameX="-23" frameY="0" frameWidth="347" frameHeight="584" />
+</TextureAtlas>
